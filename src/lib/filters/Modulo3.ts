@@ -1,6 +1,6 @@
 export function Modulo3(x:number): number
 {
-      return x % 5;
+      return x % 3;
 }
 
 export function modulo3Array(arr: number[]): number[]{
